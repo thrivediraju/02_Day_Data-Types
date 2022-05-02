@@ -27,13 +27,13 @@ working with isidentifier()
 # print(a) ; print(b)
 # print(a,b)
 
-x,y,z=5,7,8
-print(x)
-print(y)
-print(z)
-print(x,y,z)
-print(x,z,z)
-print(x) ; print(y); print(z)
+# x,y,z=5,7,8
+# print(x)
+# print(y)
+# print(z)
+# print(x,y,z)
+# print(x,z,z)
+# print(x) ; print(y); print(z)
 
 # p=q=r=6 ; a=4 ; c=8
 # print(p)
