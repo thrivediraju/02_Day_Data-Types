@@ -1,11 +1,11 @@
-'''
+"""
 Date: 19th April 2022 Tuesday
 Name: Hd
 File Desc: integer , float , string and boolean
 i.e.  int . float , str , bool
 
 type() method will help us to know what datatype it is.
-'''
+"""
 print(type(2))
 print(type(0))
 print(type(-2))
