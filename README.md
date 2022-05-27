@@ -2,4 +2,4 @@
 Python Data Types
 Python Variables
 
-Video Link: https://bit.ly/3LxXVHm
+Video Link:- https://bit.ly/3LxXVHm
