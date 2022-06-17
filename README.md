@@ -4,4 +4,4 @@ Python Variables
 
 Video Link:- https://bit.ly/3LxXVHm
 
-fdggc
+fdg
